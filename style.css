@@ -113,3 +113,46 @@ button {
     justify-content: space-around;
     text-decoration: underline;
 }
+
+
+
+
+.icon {
+    display: flex;
+    margin: 50px 200px 100px 200px;
+    justify-content: space-evenly;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+    padding: 50px 0 50px 0;
+    border-radius: 8px;
+
+
+}
+
+.signup {
+    display: flex;
+    padding: 100px 0px 100px 200px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 200px;
+
+
+}
+
+
+.signup>div>h2 {
+    font-size: 38px;
+    font-weight: 800;
+}
+
+.signup>div>p {
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.signup>div>div {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}

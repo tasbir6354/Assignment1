@@ -1,0 +1,115 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.head {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+
+}
+
+.description {
+
+    padding: 120px 0 70px 200px;
+}
+
+.description>h2 {
+    color: #272727;
+    font-weight: 800;
+    font-size: 60px;
+    margin-bottom: 32px;
+}
+
+.description>p {
+
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 14px;
+
+    line-height: 30px;
+}
+
+button {
+
+    border-radius: 8px;
+    background: #E55473;
+
+    border: 0;
+    padding: 20px 40px;
+
+    color: white;
+    font-size: 18px;
+}
+
+.photo {
+    display: flex;
+    contain: content;
+
+
+    margin: 50px 120px 0 50px;
+}
+
+
+.featured {
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+}
+
+.flower-section {
+    display: flex;
+    gap: 30px;
+    margin: 50px 100px 10px 200px;
+}
+
+
+.flower-section>div {
+    background-color: aqua;
+    display: flex;
+
+    contain: content;
+    width: 360px;
+    height: 480px;
+    border-radius: 300px 300px 0px 0px;
+
+
+
+}
+
+
+.featured {
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+}
+
+.flower-section {
+    display: flex;
+    gap: 30px;
+    margin: 50px 100px 10px 200px;
+}
+
+
+.flower-section>div {
+    background-color: aqua;
+    display: flex;
+
+    contain: content;
+    width: 360px;
+    height: 480px;
+    border-radius: 300px 300px 0px 0px;
+
+
+
+}
+
+
+
+.pinkflower {
+    display: flex;
+
+    margin: 0px 180px 10px 200px;
+    justify-content: space-around;
+    text-decoration: underline;
+}

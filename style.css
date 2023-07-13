@@ -210,3 +210,13 @@ button {
     border-radius: 8px;
 
 }
+
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+
+
+    padding: 100px 0 100px 0;
+}
